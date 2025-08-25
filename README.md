@@ -14,7 +14,8 @@ I have extended it with:
 
 ## 📊 Project Flow
 
-![Project Flow Diagram](./70fc2db9-ee99-4d5f-8593-ce380c84ed75.jpg)
+![DevOPS Cycle](https://github.com/user-attachments/assets/20963b5a-d53a-4747-aec9-3c23db35734f)
+
 
 **Flow Explanation:**
 1. **Developer pushes code** to GitHub.
